@@ -7,9 +7,9 @@ questions = [
         "answer": "Cairo"
     },
     {
-        "question": "2 + 2 = ?",
+        "question": "3 + 2 = ?",
         "options": ["3", "4", "5", "6"],
-        "answer": "4"
+        "answer": "5"
     },
     {
         "question": "What is 10 / 2?",
