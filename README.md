@@ -1,4 +1,4 @@
-# Quiz App 🎯
+# Quiz App 
 
 A simple quiz application built using Python and Tkinter.
 
