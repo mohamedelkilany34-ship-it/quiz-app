@@ -55,4 +55,4 @@ button = tk.Button(window, text="Next", command=next, bg="green", fg="white")
 button.pack(pady=20)
 
 load()
-window.mainloop ()
+window.mainloop()
